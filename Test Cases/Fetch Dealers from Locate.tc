@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Fetch Dealers from Locate Service</description>
+   <name>Fetch Dealers from Locate</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cc4e44aa-ba1c-49d4-9f6c-5e8ad3fc2083</testCaseGuid>
+</TestCaseEntity>
